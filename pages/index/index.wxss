@@ -1,0 +1,68 @@
+page {
+  font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica,
+    Segoe UI, Arial, Roboto, 'PingFang SC', 'miui', 'Hiragino Sans GB', 'Microsoft Yahei',
+    sans-serif;
+}
+.title{
+  text-align: center;
+  font-size: large;
+  margin-bottom: 15px;
+  margin-top:3px;
+}
+
+.pic{
+  text-align: center;
+  margin-top:20px;
+}
+
+.wendu{
+  margin-top:5px;
+}
+
+.light{
+  margin-top:30px;
+}
+
+.light2{
+  margin-top:30px;
+  text-align: center;
+}
+
+.dataTime{
+  color: rgba(69, 90, 100, 0.6);
+  margin-left: 12px;
+  margin-top: 10px;
+  font-size: 12px;
+}
+/* WXSS样式 */
+.container {
+  padding: 30rpx;
+}
+
+.time-display {
+  font-size: 56rpx;
+  text-align: center;
+  margin: 40rpx 0;
+  color: #333;
+}
+
+.add-btn {
+  background-color: #007aff;
+  color: white;
+  margin-top: 30rpx;
+}
+
+.alarm-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20rpx;
+  border-bottom: 1rpx solid #eee;
+}
+
+.delete-btn {
+  color: #ff3b30;
+  font-size: 40rpx;
+  padding: 0 20rpx;
+  background: none;
+}
